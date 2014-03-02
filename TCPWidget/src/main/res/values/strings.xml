@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TCPWidget</string>
+    <string name="config_server">Server address</string>
+    <string name="config_port">Port</string>
+    <string name="config_pass">Password (Sent in response to PASS?)</string>
+    <string name="config_cmdpre">Pre command (Not sent if empty)</string>
+    <string name="config_cmdpost">Post command (Not sent if empty)</string>
+    <string name="config_cmddelay">Delay between pre and post command (ms)</string>
+    <string name="config_ok">OK</string>
+</resources>
