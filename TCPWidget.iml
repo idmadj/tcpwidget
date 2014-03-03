@@ -3,11 +3,10 @@
   <component name="FacetManager">
     <facet type="android" name="Android">
       <configuration>
-        <option name="SELECTED_BUILD_VARIANT" value="DefaultFlavorDebug" />
-        <option name="ASSEMBLE_TASK_NAME" value="assembleDefaultFlavorDebug" />
-        <option name="COMPILE_JAVA_TASK_NAME" value="compileDefaultFlavorDebug" />
-        <option name="ASSEMBLE_TEST_TASK_NAME" value="assembleDefaultFlavorTest" />
-        <option name="SOURCE_GEN_TASK_NAME" value="generateDefaultFlavorDebugSources" />
+        <option name="SELECTED_BUILD_VARIANT" value="DefaultFlavorRelease" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDefaultFlavorRelease" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDefaultFlavorRelease" />
+        <option name="SOURCE_GEN_TASK_NAME" value="generateDefaultFlavorReleaseSources" />
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
@@ -22,20 +21,15 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
-    <output url="file://$MODULE_DIR$/TCPWidget/build/classes/defaultFlavor/debug" />
+    <output url="file://$MODULE_DIR$/TCPWidget/build/classes/defaultFlavor/release" />
     <output-test url="file://$MODULE_DIR$/build/classes/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/TCPWidget">
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/source/r/defaultFlavor/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/source/aidl/defaultFlavor/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/source/rs/defaultFlavor/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/source/buildConfig/defaultFlavor/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/res/rs/defaultFlavor/debug" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/source/r/defaultFlavor/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/source/aidl/defaultFlavor/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/source/rs/defaultFlavor/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/source/buildConfig/defaultFlavor/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/res/rs/defaultFlavor/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/source/r/defaultFlavor/release" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/source/aidl/defaultFlavor/release" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/source/rs/defaultFlavor/release" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/source/buildConfig/defaultFlavor/release" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/build/res/rs/defaultFlavor/release" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/defaultFlavor/aidl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/defaultFlavor/assets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/defaultFlavor/java" isTestSource="false" />
@@ -50,13 +44,13 @@
       <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/instrumentTestDefaultFlavor/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/instrumentTestDefaultFlavor/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/instrumentTestDefaultFlavor/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/debug/aidl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/debug/assets" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/debug/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/debug/jni" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/debug/rs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/debug/res" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/release/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/release/assets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/release/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/release/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/release/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/release/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/release/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/main/aidl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/main/assets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TCPWidget/src/main/java" isTestSource="false" />
